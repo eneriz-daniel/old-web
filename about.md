@@ -35,7 +35,7 @@ modify_date: 2021-05-24
 - Early-stage researcher fellowship
   : 2020, Aragon Institute of Engineering Research (I3A)
 - Best Master's thesis
-  : 2020, IEEE Sensors Chapter
+  : 2020, IEEE Spanish Sensors Chapter
 - Fourth finalist under PYNQ category
   : 2020,  Xilinx Open Hardware Design Competition (Europe)
   : [*Sensorial fusion via QNNs*](https://github.com/eneriz-daniel/sensorialfusionQNNs)
