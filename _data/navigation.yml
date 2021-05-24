@@ -1,15 +1,4 @@
 header:
-  - titles:
-      # @start locale config
-      en      : &EN       Archive
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      es      : &ES       Archivo
-      es-ES   : *ES
-      # @end locale config
-    url: /archive.html
 
   - titles:
       # @start locale config
@@ -22,3 +11,15 @@ header:
       es-ES   : *ES
       # @end locale config
     url: /about.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      es      : &ES       Archivo
+      es-ES   : *ES
+      # @end locale config
+    url: /archive.html
