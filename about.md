@@ -4,7 +4,7 @@ aside:
   toc: true
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About me
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -13,10 +13,14 @@ titles:
   es-ES   : *ES
   # @end locale config
 key: page-about
-modify_date: 2021-05-24
+modify_date: 2021-05-27
+comment: false
 ---
+<img align="right" width="200" height="200" src="assets/avatar.jpg" alt="Image" title="Image_circle+border+shadow" class="circle border shadow">
 
-#### Hello there! I'm Daniel Enériz Orta. Nowadays I'm studying towards the PhD at the University of Zaragoza working on Edge AI. In this page you can find my resume
+I am Daniel Enériz Orta, I have studied Physics (MSc) and I am currently doing my PhD at the University of Zaragoza. I have a special interest in Artificial Intelligence and Electronics, so I have focused my thesis towards Edge-AI. Specifically, I am going to explore different physical supports, FPGAs, CPUs and GPUs, in which to be able to infer neural networks, optimizing the models to minimize energy and resource costs while achieving the lowest possible inference time. I have also worked in the wireless control of instrumentation via WiFi, the code of which is [published](https://github.com/eneriz-daniel/instin).
+
+Technology has always caught my attention. I have experience tinkering with hardware: Arduino, 3D printing, Raspberry... and software: [Telegram bots](https://github.com/eneriz-daniel/COVIDataNav), data processing, this website...
 
 ## Education
 - PhD (*Currently*)
