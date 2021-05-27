@@ -2,7 +2,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       About me
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -11,6 +11,9 @@ header:
       es-ES   : *ES
       # @end locale config
     url: /about.html
+
+  - title: Blog
+    url: /blog.html
 
   - titles:
       # @start locale config
